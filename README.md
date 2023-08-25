@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking for internship
 - 📫 How to reach me contact no - 9665988596
+- Gmail - yashkac123@gmail.com
 
 <!---
 Yashkachotiya/Yashkachotiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
